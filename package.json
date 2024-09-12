@@ -1,6 +1,5 @@
 {
   "name": "quadb-portfolio",
-  "homepage": "https://github.com/poornima005/QuadB-protfolio.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
